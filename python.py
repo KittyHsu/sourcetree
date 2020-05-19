@@ -5,5 +5,5 @@ Created on Fri May 15 10:52:25 2020
 @author: ASUS
 """
 
-for i in range(10):
+for i in range(50):
     print(i)
